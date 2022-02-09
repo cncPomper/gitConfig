@@ -2,8 +2,12 @@
 
  ## 1. Konfiguracja środowiska
  ### 1.1 Kim jesteś?
- ```git config --global user.name "Imię Nazwisko"``` <br/>
- ```git config --global user.email moj@email.com```
+ ```
+ git config --global user.name "Imię Nazwisko"
+ ```
+ ```
+ git config --global user.email moj@email.com
+ ```
 
 ## 2. Narzędzia
  -> Autohotkey - przyspiesza pracę oraz pozwala unikać błędów [AutoHotKey](https://www.autohotkey.com/)
